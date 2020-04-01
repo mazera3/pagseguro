@@ -1,7 +1,7 @@
 <?php
 $hostname = 'localhost';
-$username = 'mazera';
-$password = 'mazera';
+$username = 'usuario';
+$password = '';
 $database = 'pagseguro';
 
 //$conn = new PDO("mysql:host=$hostname;dbname=$database;charset=utf8", $username, $password);
